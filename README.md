@@ -4,7 +4,7 @@ Estudiante de último año de **ASIR (Administración de Sistemas Informáticos 
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 * **Sistemas:** Windows Server, Active Directory, PowerShell, VirtualBox[cite: 1].
 * **Redes:** Cisco, DNS, DHCP, SSH, VPN[cite: 1].
 * **BBDD y Web:** MySQL, VS Code, HTML/CSS[cite: 1].
