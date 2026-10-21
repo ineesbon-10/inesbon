@@ -1,4 +1,4 @@
-# ¡Hola, soy Inés Bon! 👋
+# ¡Hola, soy Inés Bon! 
 
 Estudiante de último año de **ASIR (Administración de Sistemas Informáticos en Red)**, apasionada por la gestión, automatización y seguridad de infraestructuras IT[cite: 1].
 
